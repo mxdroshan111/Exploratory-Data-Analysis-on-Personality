@@ -85,11 +85,3 @@ The two datasets were loaded and compared. Since they were not equal, they were:
 
 ---
 
-## 📂 File Structure
-
-📁 Project Root
-├── EDA.ipynb # Original analysis notebook
-├── EDA_Cleaned_and_Documented.ipynb # (Optional) Clean version with markdowns
-├── personality_dataset.csv # One of the datasets
-├── personality_datasert.csv # Second dataset
-└── README.md # This file
